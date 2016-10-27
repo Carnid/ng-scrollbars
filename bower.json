@@ -1,10 +1,10 @@
 {
-	"name": "ng-scrollbars",
-	"version": "0.0.10",
+	"name": "ng-scrollbars-carnid-mod",
+	"version": "0.0.12",
 	"authors": [
 		"minhongrails@gmail.com"
 	],
-	"description": "Wrapper of Malihu's jQuery Custom Scrollbar to Angular",
+	"description": "Alternate version wrapper of Malihu's jQuery Custom Scrollbar to Angular",
 	"main": "dist/scrollbars.min.js",
 	"keywords": [
 		"scrollbar",
@@ -16,7 +16,7 @@
 	"license": "MIT",
 	"homepage": "http://iominh.github.io/ng-scrollbars/",
 	"dependencies": {
-		"malihu-custom-scrollbar-plugin": ">=3.0.7",
+		"malihu-custom-scrollbar-plugin-carnid-mod": ">=3.1.6",
 		"angular": "^1.2.21"
 	},
 	"ignore": [
